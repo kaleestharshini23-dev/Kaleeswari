@@ -17,47 +17,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Data+Analyst+Learner;B.Tech+Artificial+Intelligence+%26+Data+Science;Python+%7C+SQL+%7C+Data+Analytics;Turning+Data+Into+Insights+%F0%9F%93%8A" />
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=6C63FF&style=flat-square"/>
-
 </div>
 
 ---
 
 # 👩‍💻 About Me
-
-```python
-class Kaleeswari:
-
-    def __init__(self):
-
-        self.name = "Kaleeswari"
-
-        self.education = "B.Tech Artificial Intelligence & Data Science"
-
-        self.college = "Sri College of Engineering and Technology"
-
-        self.current_role = "Data Analyst Learner"
-
-        self.learning = [
-            "Python",
-            "SQL",
-            "Data Analytics",
-            "Data Visualization",
-            "Machine Learning"
-        ]
-
-    def goal(self):
-
-        return "Transform data into meaningful insights 📊"
-
-
-me = Kaleeswari()
-
-print(me.goal())
-```
-
-### ⚡ Currently
 
 * 📊 Learning **Data Analytics**
 * 🐍 Improving my **Python skills**
